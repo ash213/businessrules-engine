@@ -1,0 +1,42 @@
+{
+"rulesData":[
+	{
+	"product":"physicalProduct",
+	"actions":"generateSlipForPackaging"
+	},
+	{
+	"product":"physicalProduct",
+	"actions":"generateCommisssion"
+	},
+	{
+	"product":"book",
+	"actions":"createDuplicateSlip"
+	},
+	{
+	"product":"book",
+	"actions":"generateCommission"
+	},
+	{
+	"product":"membership",
+	"actions":"activateMembership"
+	},
+	{
+	"product":"upgradeMemebeship",
+	"actions":"upgradeMemebeship"
+	},
+	{
+	"product":"upgradeMemebeship",
+	"actions":"emailOwner"
+	},
+	{
+	"product":"membership",
+	"actions":"emailOwner"
+	},
+	{
+	"product":"learnToSki",
+	"actions":"firstAid"
+	}
+]
+
+
+}
